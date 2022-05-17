@@ -11,6 +11,7 @@
 }
 
 .container {
+    position: relative;
     width: 1140px;
     margin: 0 auto;
 }
@@ -23,3 +24,4 @@
 @import 'blocks/sidepanel';
 @import 'blocks/menu';
 @import 'blocks/about';
+@import 'blocks/resume';
